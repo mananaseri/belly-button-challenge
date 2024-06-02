@@ -12,3 +12,4 @@ To run this dashboard locally , Clone this repository to your computer and Open 
 
 To run this dashboard locally , Clone this repository to your computer and Open the index.html file in your web browser to view the data. 
 
+http://127.0.0.1:5500/StarterCode/index.html
